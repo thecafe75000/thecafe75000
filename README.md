@@ -1,5 +1,8 @@
 ## Hi Welcome 🌸🌸
 
+![alt text](image.png)
+
+![LEI's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--
 **thecafe75000/thecafe75000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
